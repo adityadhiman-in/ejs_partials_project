@@ -29,18 +29,21 @@ The application defines GET routes for three pages:
 
 The `app.listen` method starts the Express.js application and listens on the specified port (3000). Once the server starts, it logs a message to the console indicating that it is running.
 
-## Installation
+1. Clone the repository:
 
-Provide instructions on how to install and set up your project.
+   ```bash
+   https://github.com/adityadhiman-in/ejs_partials_project.git
 
-## Usage
+   ```
 
-Explain how to use your project, including any necessary commands or configurations.
+1. Navigate to the project directory:
 
-## Credits
+`cd yourproject`
 
-Give credit to any resources, libraries, or individuals you used or were inspired by during the development of your project.
+2 Install dependencies:
 
-## License
+`npm install`
 
-State the license under which your project is released.
+Start the server:
+
+`node index.js`
