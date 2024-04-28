@@ -1,6 +1,6 @@
 # ejs_partials_project
 
-Brief description of your project.
+ExpressJs project created with expressJs and Ejs with partials
 
 ## Table of Contents
 
